@@ -10,7 +10,7 @@ This is a small profile dedicated to creating my Portfolio for University, uploa
 
 -------------------------
 
-##Tools & Tech
+## Tools & Tech
 
 - Jetbrains Ryder, Jetbrains Intellij Idea, VSCode
 - Musescore Studios 4.X
@@ -20,7 +20,7 @@ This is a small profile dedicated to creating my Portfolio for University, uploa
 
 -------------------------
 
-##A Bit About Me
+## A Bit About Me
 
 - I plan to go to University in Sweden where my goal will be to acquire a citizenship
 - Play 6 Instruments
