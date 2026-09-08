@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mbug, a high school student based in the USA
+I'm Mbug, Michael Scott, a high school student based in the USA
 
 I am a solo developer hobbyist, but I do plan to go into Software Development as a full - time career.
 
